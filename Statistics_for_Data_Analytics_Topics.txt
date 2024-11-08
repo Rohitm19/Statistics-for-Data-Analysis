@@ -1,0 +1,61 @@
+
+1. Descriptive Statistics
+   - Central Value Location
+     - Mean
+     - Trimmed Mean
+     - Weighted Average
+     - Mode
+     - Median
+     - Outliers
+   - Variability
+     - Deviation
+     - Variance
+     - Standard Deviation
+     - Mean Absolute Deviation
+     - Range
+     - Percentile
+     - Interquartile Range
+   - Comparing Variables
+     - Numeric vs. Numeric
+     - Categorical vs. Categorical
+     - Categorical vs. Numeric
+
+2. Data and Sampling Distributions
+   - Simple Random Sample
+   - Stratified Sample
+   - Bias and Types of Bias
+   - Central Limit Theorem
+   - Standard Error
+   - Bootstrap Sampling
+   - Confidence Intervals
+
+3. Probability Distributions
+   - Normal Distribution
+   - T Distribution
+   - Binomial Distribution
+   - Poisson Distribution
+
+4. Hypothesis Testing
+   - Null and Alternative Hypotheses
+   - Types of Errors (Type I & Type II)
+   - P-value and Significance Levels
+   - One-tailed vs. Two-tailed Tests
+   - T-tests (One-sample, Independent, Paired)
+
+5. Correlation and Covariance
+   - Pearson’s Correlation Coefficient
+   - Covariance Basics
+   - Correlation vs. Causation
+
+6. Linear Regression
+   - Simple Linear Regression
+   - Ordinary Least Squares (OLS) Basics
+   - Interpreting Coefficients
+
+7. Multiple Regression (Basics)
+   - Understanding Adjusted R-squared
+   - Feature Selection Overview
+
+8. Logistic Regression (Introduction)
+   - Basic Concepts (Odds and Log-Odds)
+   - Confusion Matrix and Accuracy Measures
