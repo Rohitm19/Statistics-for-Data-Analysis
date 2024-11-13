@@ -59,3 +59,19 @@
 8. Logistic Regression (Introduction)
    - Basic Concepts (Odds and Log-Odds)
    - Confusion Matrix and Accuracy Measures
+
+Interview Concepts
+1. You should be comfortable with the idea of averages, percentiles, distributions, deriving metrics, and hypothesis testing.
+So for instance if you’re asked to analyze two marketing campaigns and pick the better one, you should be able to propose calculating the CTR and using a Z test or something to make sure the difference is significant.
+2. How do you find the harmonic mean?
+3. How to understand if a new feature is statistically significant.
+
+Set up an AB test experiment with a testable hypothesis.
+
+If a marketing AB test concludes and the conversion rate is (random number) 5% in the test group and and 3% in the control group and is statistically significant with a p value of .05. Can you tell a marketer that you should make the change to the new feature and that you should expect the 5% uplift? (Prob discuss utilizing error bars and to understand what is the confidence interval to address how the 5% is a point estimate within a normal distribution aka the "most likely outcome" is how I would go about discussing this.)
+4. My next question (as an interviewer) would be: “how do you know the distribution is normal? How and why would you check that?”.
+
+Most people know enough to say normal distribution, few but the good ones will know why and how to check for a normal distribution, and what to do if it isn’t normal.
+5. Some more information on the role would help us give you meaningful advice. Is it as a data analyst for finance operations? Marketing operations? Logistics?
+
+The advice will vary widely between niches. I’m in marketing and the most common analysis that we do is A/B testing, multi-variable time series trend analysis, correlation coefficient calculations, and probability estimations. Occasionally we use P-values and Z-scores for data cleaning and validation.
